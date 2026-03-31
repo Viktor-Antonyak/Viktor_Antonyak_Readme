@@ -26,5 +26,5 @@ I’m a software developer transitioning from UI/UX design into professional Unr
 
 ### 📊 GitHub Stats
 
-![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=cyberpunk)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=cyberpunk)
+![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viktor-Antonyak&show_icons=true&theme=cyberpunk)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktor-Antonyak&layout=compact&theme=cyberpunk)
