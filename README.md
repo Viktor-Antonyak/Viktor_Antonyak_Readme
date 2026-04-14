@@ -18,6 +18,5 @@ I’m a software developer transitioning from UI/UX design into professional Unr
 
 ### 🚀 Projects in Focus
 
-- **AutoCore** – A mobile marketplace for auto services with high-end UI/UX.
 - **Neon Grave** - Cyberpunk Action Platformer on UE5, where I design our own plugin architecture (GAS analogue) on C++ using Subsystems for modular ability and attributes.
 - **Gameplay Plugins** – Custom tools and systems for UE5 (C++ based).
